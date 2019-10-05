@@ -1,0 +1,33 @@
+:toc:
+:sectnums:
+:toclevels: 5
+:sectnumlevels: 5
+:showcomments:
+:xrefstyle: short
+:icons: font
+:source-highlighter: coderay
+:tick: &#x2714;
+:pound: &#xA3;
+
+
+= HPV Faq
+
+== Which are the "dangerous" strains of HPV?
+
+NOTE: this information is summarised from https://www.webmd.com/sexual-conditions/hpv-genital-warts/hpv-virus-information-about-human-papillomavirus#1[WebMD]
+
+Each HPV virus has its own number or type. About 60 of the 100 HPV types cause warts on areas like the
+hands or feet. The other 40 or so enter the body during sexual contact. Not all of the 40 sexually transmitted HPV viruses
+cause serious health problems. High-risk HPV strains include HPV 16 and 18, which cause about 70% of cervical cancers.
+Other high-risk HPV viruses include 31, 33, 45, 52, 58, and a few others.
+
+Low-risk HPV strains, such as HPV 6 and 11, cause about 90% of genital warts, which rarely develop
+into cancer. 
+
+== Is infection permanent?
+
+Often, there are no symptoms of an HPV infection, and the body clears the infection on its own in a few years.
+Many people never know they were infected.
+
+
+
