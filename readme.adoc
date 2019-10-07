@@ -8,6 +8,7 @@
 :source-highlighter: coderay
 :tick: &#x2714;
 :pound: &#xA3;
+:Merck: https://en.wikipedia.org/wiki/Merck_%26_Co.
 
 
 = HPV Faq
@@ -24,10 +25,19 @@ Other high-risk HPV viruses include 31, 33, 45, 52, 58, and a few others.
 Low-risk HPV strains, such as HPV 6 and 11, cause about 90% of genital warts, which rarely develop
 into cancer. 
 
+
 == Is infection permanent?
 
 Often, there are no symptoms of an HPV infection, and the body clears the infection on its own in a few years.
 Many people never know they were infected.
 
+== What are the vaccines against HPV?
+
+There are two vaccines against HPV https://en.wikipedia.org/wiki/Cervarix[Cervarix] and https://en.wikipedia.org/wiki/Gardasil[Gardasil].
+
+Cervarix is manufactured by GlaxoSmithKline and protects only against types 16 and 18.
+
+Gardasil is manufactured by {Merck}[Merck & Co]. There are two versions of Gardasil - *Gardasil*
+which protects against types 6, 11, 16 and 18 and *Gardasil 9* which additionally protects against types 31, 33, 45, 52 and 58.
 
 
